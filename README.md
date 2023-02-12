@@ -1,1 +1,1 @@
-# lab-debugger-demo-2
+## Lab: Debugger demo with an ArrayList
